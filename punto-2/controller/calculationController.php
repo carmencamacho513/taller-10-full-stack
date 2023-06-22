@@ -10,10 +10,10 @@ $message = "";
         $ageNumber = intval($_POST["enter_age"]);
 
         if ($ageNumber >= 18) {
-           $message = "ES MAYOR DE EDAD";
+           $message = "*ES MAYOR DE EDAD*";
 
         } else {
-           $message = "NO ES MAYOR DE EDAD";
+           $message = "*NO ES MAYOR DE EDAD*";
         }
       }
 ?>

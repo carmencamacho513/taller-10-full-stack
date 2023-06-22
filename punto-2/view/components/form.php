@@ -11,7 +11,7 @@
             id="full-name"
             type="text"
             name="full_name"
-            placeholder="Jhon Doe"
+            placeholder=" "
             >
         </di>
         <div>
@@ -22,7 +22,7 @@
             id="enter-age"
             type="text"
             name="enter_age"
-            placeholder="18"
+            placeholder=" "
             >
         </di>
     </di>  

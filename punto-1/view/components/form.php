@@ -11,7 +11,7 @@
                id="first-number" 
                type="text" 
                name="first_number" 
-               placeholder="4">
+               placeholder="5.3 ">
         </di>
 
         <div>
@@ -22,7 +22,7 @@
                id="second-number" 
                type="text" 
                name="second_number" 
-               placeholder="8">
+               placeholder="6">
         </di>
 
         <div>
