@@ -1,7 +1,6 @@
 <?php
 include "./controller/functionOperation.php";
 
-$result = 0;
 $firstNumber = 0;
 $secondnumber = 0;
 $operationType = "";
@@ -14,7 +13,7 @@ if(isset($_POST["first_number"]) &&
     $secondNumber = floatval($_POST["second_number"]);
     $operationType = $_POST["operation_type"];  
     
-    $result = calculate($firstNumber, $secondNumber, $operationType);
+    $message = calculate($firstNumber, $secondNumber, $operationType);
 }
 
 

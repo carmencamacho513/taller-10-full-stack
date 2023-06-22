@@ -27,13 +27,12 @@
 
         <div>
             <label for="operation-type">
-                    Tipo de Operación
             </label>
             <select
                 id="operation-type"  
                 name="operation_type" 
             >
-                <option value="Opción">Escoja la Opción a Ejecutar:</option>
+                <option value="Opción">Escoja el Tipo de operación a Ejecutar:</option>
                 <option value="Suma">Suma</option>
                 <option value="Resta">Resta</option>
                 <option value="Multiplicación">Multiplicación</option>
