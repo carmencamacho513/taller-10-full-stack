@@ -1,7 +1,7 @@
 <?php include "./controller/calculationController.php"; ?>
 
 <form method="post">
-    <h2>Calculadora de Operaciones</h2>
+    <h2>Operaciones Básicas</h2>
     <div class="for_row">
         <div>
             <label for="first-number">
@@ -33,13 +33,14 @@
                 id="operation-type"  
                 name="operation_type" 
             >
-                <option value="A">Suma</option>
-                <option value="B">Resta</option>
-                <option value="C">Multiplicación</option>
-                <option value="D">División</option>
+                <option value="Opción">Escoja la Opción a Ejecutar:</option>
+                <option value="Suma">Suma</option>
+                <option value="Resta">Resta</option>
+                <option value="Multiplicación">Multiplicación</option>
+                <option value="División">División</option>
             </select>
         </di>
     </di>
-        <button>Calcular la Operación</button>
+        <button>Calcular</button>
 
 </form>

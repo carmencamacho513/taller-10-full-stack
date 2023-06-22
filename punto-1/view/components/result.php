@@ -5,7 +5,7 @@
         <p><?php echo $message; ?></p>
         <?php } ?>
     
-        <h3><?php echo number_format($result); ?></h3>
+        <h3><?php echo number_format($result, 1, ",", "."); ?></h3>
 
 </div>
 

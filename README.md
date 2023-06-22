@@ -5,8 +5,10 @@
 <p>Profesor: Cristian Felipe Patiño</p>
 
 <h2>Punto: 1: </h2>
+<img src="./public/images/operaciones.png" alt="operaciones">
 
 <h2>Punto: 2: </h2>
+<img src="./public/images/edad.png" alt="edad">
 
 <h2>Punto: 3: </h2>
 
@@ -20,7 +22,7 @@
 <h3>6- Conexión</h3>
 <img src="./public/images/connection.png" alt="connection">
 
-<h3>7- Mustra de Datos en Pantalla</h3>
+<h3>7- Muestra de Datos en Pantalla</h3>
 <img src="./public/images/bd.png" alt="bd">
 
 

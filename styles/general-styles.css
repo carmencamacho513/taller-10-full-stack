@@ -23,7 +23,7 @@ form {
   flex-direction: column;
   align-items: center;
 
-  width: 30%;
+  width: 35%;
   box-shadow: 0 0 5px 0px #abababae;
   color: #000000ae;
   font-family: system-ui, -apple-system;
@@ -75,7 +75,7 @@ table {
 }
 
 tr {
-  height: 40px;
+  height: 100px;
 }
 
 tr:nth-child(even) {

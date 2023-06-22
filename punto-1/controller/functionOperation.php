@@ -4,16 +4,16 @@ function calculate($firstNumber, $secondNumber, $operationType) {
     
     switch($operationType) {
 
-        case "A":
+        case "Suma":
             return $firstNumber + $secondNumber;
     
-        case "B":
+        case "Resta":
             return $firstNumber - $secondNumber;
     
-        case "C":
+        case "Multiplicación":
             return $firstNumber * $secondNumber;
     
-        case "D":
+        case "División":
             return $firstNumber / $secondNumber;
         }  
     } 
