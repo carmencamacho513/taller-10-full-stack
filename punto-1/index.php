@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <h1>Punto 1 - Operaciones de dos Números</h1>
+  <h1>Punto 1 - Operaciones Básicas -</h1>
   <hr>
   <?php include "./view/components/form.php"; ?>
   <?php include "./view/components/result.php"; ?>

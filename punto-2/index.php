@@ -8,7 +8,7 @@
 </head>
 <body>
       
-  <h1>Punto 2 - Calculo de la Mayoría de Edad</h1>
+  <h1>Punto 2 - Mayoría de Edad - </h1>
   <hr>
   
   <?php include "./view/components/form.php"; ?>

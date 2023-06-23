@@ -1,11 +1,11 @@
 <?php include "./controller/calculationController.php"; ?>
 
 <form method="post">
-    <h2>Mayoría de Edad</h2>
+    <h2>Calculadora de Fechas</h2>
     <div class="for_row">
         <div>
             <label for="full-name">
-                Digite su Nombre
+                Digite su Nombre Completo
             </label>
             <input
             id="full-name"
@@ -15,18 +15,18 @@
             >
         </di>
         <div>
-            <label for="enter-age">
-                Digite su Edad
+            <label for="birth-date">
+                Digite su Fecha de Nacimiento
             </label>
             <input
-            id="enter-age"
-            type="text"
-            name="enter_age"
+            id="birth-date"
+            type="date"
+            name="birth_date"
             placeholder=" "
             >
         </di>
     </di>  
-         <button>ENVIAR</button>
+         <button>Registrar</button>
     
 
 </form

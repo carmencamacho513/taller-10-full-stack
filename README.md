@@ -15,6 +15,7 @@
 <img src="./public/images/datos.png" alt="datos">
 
 <h2>Punto: 4: Calculo de Mayoría de Edad con Fechas</h2>
+<img src="./public/images/mayor.png" alt="mayor">
 
 <h2>Punto: 5-6-7: Proyecto de Conexión Base de Datos</h2>
 
