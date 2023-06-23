@@ -3,6 +3,7 @@
 $birthDate = date("y-m-d");
 $personName = "";
 $message = "";
+$ageNumber = 0;
 
 
 if (
@@ -17,8 +18,8 @@ if (
    $ageNumber = $currentDate->diff($birthDate)->y;
 
    if ($ageNumber >= 18) {
-      $message = "Tienes $ageNumber años \n *ERES MAYOR DE EDAD*";
+      $message = "*ERES MAYOR DE EDAD*";
    } else {
-      $message = "Tienes $ageNumber años \n *NO ERES MAYOR DE EDAD*";
+      $message = "*NO ERES MAYOR DE EDAD*";
    }
 }
